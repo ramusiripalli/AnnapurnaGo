@@ -47,3 +47,9 @@
   width: 100%;
 }
 
+.filter-btn{
+  margin: 7px;
+  cursor: pointer;
+  background-color: red;
+  padding: 10px;
+}
