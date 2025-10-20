@@ -37,21 +37,16 @@
   border:1px solid black;
 }
 
-.search{
-  padding: 10px;
-  background-color: red;
-  border: 2px solid black;
-}
-
 .res-logo{
   width: 100%;
 }
+.filter{
+  display: flex;
+}
+
 
 .filter-btn{
-  margin: 7px;
   cursor: pointer;
-  background-color: red;
-  padding: 10px;
 }
 
 .shimmer-container{
@@ -64,4 +59,9 @@
   background-color: #f0f0f0;
   height: 400px;
   margin: 10px;
+}
+
+.login{
+  padding: 0 20px;
+  cursor:pointer;
 }
